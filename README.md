@@ -1,7 +1,7 @@
 # Project:Recipes
 _This is a project to show what I've learnt in the HTML Foundations module of the Foundations course of The Odin Project._
 
-For this project, I have to build a basic recipe website. I have learnt the basic html boilerplate, learnt about how to present information in my body, make links and images and also learnt how to write good commit messages! Hopefully, these skills shine through in this project.
+For this project, I have to build a basic recipe website.
 
 I learnt how to make the basic html boilerplate (which I did for every file right off the bat), learnt how to make ordered and unordered lists and headings with varying sizes which are displayed in the webpages. I also learnt some basic text editing (like italic and bold) one of which I have employed in the Paneer Sabzi recipe description.
 
